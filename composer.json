@@ -1,0 +1,20 @@
+{
+    "name" : "Wateringcart/laravel-posts",
+    "description" : "Laravel-Posts.",
+    "authors" : [{
+        "name" : "Wateringcart",
+        "email" : "wateringcart@outlook.com"
+    }],
+    "keywords" : [
+        "laravel",
+        "laravel-posts"
+    ],
+    "homepage" : "https://github.com/wateringcart/laravel-posts",
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+        "php" : ">=5.6.0"
+    },
+    "minimum-stability" : "dev"
+}

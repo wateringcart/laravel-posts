@@ -19,5 +19,10 @@
     "require-dev": {
         "phpunit/phpunit": "~5.7"
     },
+    "autoload": {
+        "psr-4": {
+            "Wateringcart\\": "src/"
+        }
+    },
     "minimum-stability" : "dev"
 }

@@ -17,7 +17,7 @@ class MakePostCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'make:posts
+    protected $signature = 'posts:install
                     {--views : Only scaffold the posts views}
                     {--force : Overwrite existing files by default}';
 
